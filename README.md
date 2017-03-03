@@ -1,2 +1,2 @@
-# cloudformation-advanced
-from the cloud guru course
+# aCloudGuru-AdvancedCloudFormation
+aCloudGuru Advanced CloudFormation Course
